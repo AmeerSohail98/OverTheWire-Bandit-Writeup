@@ -1,6 +1,6 @@
 # :shipit: OverTheWire: Bandit, Level 0-15 Write-up
 
-![image]()
+![image](/game_intro.png)
 ## :clipboard: Table of Contents
 - [:open_book: Introduction](#open_book-introduction)
 <!-- - [:triangular_flag_on_post: Bandit Level 00](#triangular_flag_on_post-bandit-level-0)
