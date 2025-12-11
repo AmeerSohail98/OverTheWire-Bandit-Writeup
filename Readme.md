@@ -10,6 +10,7 @@
 - [:triangular_flag_on_post: Level-3](/Level-03/level_3.md)
 - [:triangular_flag_on_post: Level-4](/Level-04/level_4.md)
 - [:triangular_flag_on_post: Level-5](/Level-05/level_5.md)
+- [:triangular_flag_on_post: Level-6](/Level-06/level_6.md)
 
 ## :open_book: Introduction
 OverTheWire is a community that can help you to learn and practice security concepts in the form of fun-filled games. They offer lots of wargames to practice your skills.
