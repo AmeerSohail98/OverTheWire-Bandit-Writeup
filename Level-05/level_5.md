@@ -54,21 +54,16 @@
 
 ![image](/Level-05/img15.png)
 
-9. So the command i last used in previous level to get all files data i used it here to get a better oraganized understanding of file data type and architecture, so the output is displayed in proper organized way.
+9. So I researched for a command to find by using file size and I used it find the exact file with size clue provided in the question.
 
-### <ins>find . -type f -exec file '{}' + | grep 'ASCII text' </ins>
-Additionaly i used grep to highlight the ascii text data files.
+### <ins>find . -type f -size 1033c </ins>
+
 
 ![image](/Level-05/img16.png)
 
-10. So after checking the proper data format i listed some folders that stand out in those directories.
+10. So finally used cat command to check the data in the file by providing all directories path and got the key from ‘maybehere07’ folder and
+‘.file2’
 
 ![image](/Level-05/img17.png)
-
-11. So finally used cat command to check all of the files data at a time by providing all directories path and got the key from 'maybehere10' folder and    '.file2'
-
-![image](/Level-05/img18.png)
-
-![image](/Level-05/img19.png)
 
 
