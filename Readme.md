@@ -19,4 +19,4 @@ OverTheWire is a community that can help you to learn and practice security conc
 The first set of challenges is named "Bandit," and it's more of a tutorial to the Linux CLI, with each level's goal being to discover the password to move to the next.
 ![image](/bandit.png)
 
-The follwing content is a comprehensive write-up of my solutions for this challenge (Level 0 - 34).
+The follwing content is a comprehensive write-up of my solutions for this challenges (Level 0 - 34).
